@@ -1,0 +1,3 @@
+Hello World!!
+This is the First time ever using Git an GitHub, even though I've been 
+a CS student for 3 years, maybe the program at my uni wasn't as good after all 
